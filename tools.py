@@ -1,5 +1,4 @@
-#By Adam P. Ashcraft / SEA
-
+"""Provides an object for calling functions I use on a regular basis"""
 import csv
 import functools
 import json
@@ -10,7 +9,7 @@ PLUGINS = dict()
 
 
 class Tools:
-
+    """My tool bag"""
     def __init__(self):
         pass
 
